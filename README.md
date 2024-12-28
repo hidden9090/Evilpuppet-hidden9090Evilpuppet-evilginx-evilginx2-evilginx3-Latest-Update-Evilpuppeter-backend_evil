@@ -12,7 +12,8 @@ EvilPuppet is a proof-of-concept man-in-the-middle(MITM) tool that uses Puppetee
 - Allow remote control of the Puppeteer browser instance from the target browser.
 - Simulate real user behaviors like clicking, scrolling, and typing.
 
-## Prerequisites
+## Prerequisites 
+
 
 - Node.js
 
