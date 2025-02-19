@@ -2,7 +2,7 @@
   
 **DISCLAIMER: EvilPuppet is for educational and research purposes only. Do not use this tool for illegal activities. The author is not responsible for any misuse of this tool.** 
   
-## Overview       
+## Overview        
  
 EvilPuppet is a proof-of-concept man-in-the-middle(MITM) tool that uses Puppeteer in the background to capture and stream HTML content to a target browser. More than just streaming, it provides an interface that allows the target browser to remotely control the Puppeteer browser instance, simulating a real user's actions.
 
